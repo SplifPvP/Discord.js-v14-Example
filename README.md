@@ -1,5 +1,7 @@
 # Discord.js-v14-Example
-A simple RPC client for Discord, Doubts? enter my discord and create a ticket => [Discord Server Here](https://discord.gg/hTR5VRQc3Y)
+This repository was created in order to see the new structures of discord.js-v14 plus the new things they added.
+
+I leave you the guide of the changes they made in this v14: [Discordjs Guide v14](https://discordjs.guide/additional-info/changes-in-v14.html#before-you-start) 
 
 # Steps to follow
 * Step 1: Go to [Discord Developer Portal> My Applications](https://discord.com/developers/applications)
@@ -8,7 +10,7 @@ A simple RPC client for Discord, Doubts? enter my discord and create a ticket =>
 <img src="https://media.discordapp.net/attachments/853062371794616320/980547108484563005/Screenshot_156.png?width=1440&height=273" />
 
 * Step 3: Write the "name of your Bot" and click the "Create" button:
-<img src="https://prnt.sc/3d0Pgd4CCsNH" />
+<img src="https://media.discordapp.net/attachments/853062371794616320/1000129057058467961/Screenshot_196.png" />
 
 * Step 4: Go to the "Rich Presence" category and add an image with the name capitalized, for example `discord-icon`.:
 <img src="https://media.discordapp.net/attachments/853062371794616320/980547108992090152/Screenshot_158.png?width=1440&height=651" />
