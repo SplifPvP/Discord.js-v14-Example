@@ -3,7 +3,7 @@ This repository was created in order to see the new structures of discord.js-v14
 
 I leave you the guide of the changes they made in this v14: [Discordjs Guide v14](https://discordjs.guide/additional-info/changes-in-v14.html#before-you-start) 
 
-### Dependencies
+# Dependencies
 
 Launch requirements:
 
